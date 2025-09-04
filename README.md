@@ -1,1 +1,1 @@
-Java Projects
+Java Standalone Application Projects
